@@ -1,7 +1,7 @@
 pipeline {
     agent any
     stages {
-        stage('label1') {
+        stage('label2') {
             steps {
                 sh 'hostname'
             }
